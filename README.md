@@ -1,2 +1,3 @@
 # 2023msg-codingtest
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+2023 전공동아리 JS 코딩테스트 
