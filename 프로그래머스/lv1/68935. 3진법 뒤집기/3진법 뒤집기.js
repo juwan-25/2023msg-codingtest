@@ -6,7 +6,6 @@ function solution(n) {
         n = Math.floor(n/3);
     }
     arr = arr.reverse();
-    console.log(arr);
     for(let i = 0; i<arr.length; i++){
         answer += Math.pow(3,i)*arr[i];
     }
